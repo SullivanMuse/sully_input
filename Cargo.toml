@@ -6,6 +6,7 @@ edition = "2018"
 license = "GNU GPLv3"
 description = "Rich input for parsers"
 readme = "README.md"
+repository = "https://github.com/SullivanMuse/sully_input"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
